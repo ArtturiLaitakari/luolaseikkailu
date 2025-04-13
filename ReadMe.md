@@ -19,9 +19,7 @@ Hahmon luonti.
 Alussa on jopa järkevää ettei ota asetta, koska suuri osa vastustajista kantaa asetta. 
 
 - [Hahmokortit](./HahmotFemale.pdf)
-- [Luolatiilet](./DungeonTiles.pdf)
-
-
+- Luola tiilet: [1](./tiles1.pdf), [2](./tiles2.pdf), [3](./tiles3.pdf)
 
 ## Haasteet
 
