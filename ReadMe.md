@@ -8,18 +8,25 @@ Hahmon luonti.
 
 - Valitse hahmokortti: barbaari, valkyria/ritari, tiedustelija, temppeliritari, samooja tai maagi.
 - Valitse loitsukortti hahmon loitsut ohjeen mukaan
-- Valitse 1 varuste. Esim parannusjuoma vaatii juomapullon. Taistelu ilman asetta on max 1 noppa.
+- Valitse 1 päävaruste. Esim parannusjuoma vaatii juomapullon. Taistelu ilman asetta on max 1 noppa.
   - 🏹 (jousipyssy)
   - 🪓 (nuija)
   - 🗡️ (miekka)
   - 🍾 (pullo)
+- Valitse 1 apu varuste
+  -  `🪢`Köysi
+  - 🔥🪨 Tulukset
+  - 🍲🔥 Keitto välineet
+  - 🔥🕯️📆 Soihtuja päiväksi
+  
 - Hahmo aloittaa haarniska ja reppu varusteilla.
 - Pelinjohtaja antaa kestopiste tokenit, sotureilla 6, puolisotureille 5 ja magian käyttäjille 4
 
 Alussa on jopa järkevää ettei ota asetta, koska suuri osa vastustajista kantaa asetta. 
 
-- [Hahmokortit](./HahmotFemale.pdf)
-- Luola tiilet: [tiles](./tiles.pdf)
+- [Hahmokortit:](./HahmotFemale.pdf)
+- [Luola tiilet:](./tiles.pdf)
+- [Tulostettavat tokenit:](./Luolaseikkailu.pdf)
 
 ## Haasteet
 
